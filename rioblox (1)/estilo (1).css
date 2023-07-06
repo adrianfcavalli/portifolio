@@ -1,0 +1,25 @@
+h1{
+    color: aqua;
+    font-size: 5em;
+    font-family: 'Roboto', sans-serif;
+}
+h2{
+    color: white;
+    font-family: 'Vina Sans', cursive;
+}
+p{
+    color: white;
+    font-family: 'Castoro Titling', cursive;
+    font-size: 2em;
+}
+    
+img {
+    height: 400px;
+}
+
+body{
+    background-color: gray;
+}
+h6{
+    font-size: 5em
+}

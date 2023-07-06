@@ -1,0 +1,72 @@
+body {
+    background-image: url(pag_01_fundo.jpg);
+}
+
+body {
+    background-image: url(00_PAGINA_01.png);
+    width: 100vw;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+img:hover {
+    width:
+        20%;
+}
+
+img {
+    width: 15%;
+    border-radius: 5%;
+}
+
+#mario {
+    width: 150%;
+    font-size: 200%;
+}
+
+#peach {
+    width: 150%;
+    font-size: 200%;
+
+}
+
+#browser {
+    width: 100%;
+    font-size: 200%;
+
+}
+
+#toad {
+    width: 150%;
+    font-size: 200%;
+}
+#luig{
+    width: 150%;
+}
+#macaco{
+    width: 2505;
+}
+
+#start {
+    text-align: center;
+
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    color: white;
+    font-size: 1em;
+}
+
+a {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
